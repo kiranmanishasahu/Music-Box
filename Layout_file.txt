@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/glass2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:gravity="fill_vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_1song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song1"
+        android:textColor="#AD1457"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_2song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song2"
+        android:textColor="#AD1457"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/btn_3song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song3"
+        android:textColor="#AD1457"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_4song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song4"
+        android:textColor="#AD1457"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_5song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song5"
+        android:textColor="#AD1457"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_6song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song6"
+        android:textColor="#AD1457"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_7song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song7"
+        android:textColor="#AD1457"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_8song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playsound"
+        android:text="song8"
+        android:textColor="#AD1457"
+        android:textSize="18sp" />
+
+
+
+</LinearLayout>
